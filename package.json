@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.7.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/core": "^4.3.0",
+    "@material-ui/icons": "^4.2.1",
+    "@types/jest": "24.0.16",
+    "@types/node": "12.6.8",
+    "@types/react": "16.8.23",
+    "@types/react-dom": "16.8.5",
+    "@types/react-router-dom": "^4.3.4",
+    "algebra.js": "^0.2.6",
+    "algebrite": "^1.2.1",
+    "antd": "^3.15.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.3.1",
+    "mathjs": "^5.7.0",
+    "mathjs-simple-integral": "^0.1.1",
+    "plotly.js": "^1.47.1",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0",
+    "react-dom": "^16.8.6",
+    "react-plotly.js": "^2.3.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.4.1",
+    "typescript": "3.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
